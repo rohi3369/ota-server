@@ -9,7 +9,7 @@
   "author": "Alexandre Abadie <alexandre.abadie@inria.fr>",
   "license": "LGPLv2.1",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.0.0",
     "bootstrap-material-design": "^0.5.10",
     "font-awesome": "^4.6.3",
     "handlebars": "^4.0.5",
